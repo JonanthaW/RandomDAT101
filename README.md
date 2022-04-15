@@ -42,8 +42,15 @@ Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente e
     * Template: nameFem = {"ana", "lucia", "Jessica", "Brianna"};
     * Template: nameMan = {"Gabriel", "Joseph", "Khan", "Victor"};
 - [ ] Estudar qual será a melhor opção para o algoritmo (velocidade e facilidade na manutenção)(Colocar tudo direto no JSON junto ou dividir tudo em subcamadas?)(Dividir em arrays ou deixar tudo em uma única array).
+- [ ] Funcional ou OOP?
 - [ ] Vídeo demonstrando algoritmo em execução SEM JSON (fase alpha).
 - [ ] Vídeo demonstrando algoritmo em execução COM JSON (fase beta).
 - [ ] Adicionar opção para imagem aleatória de uma pessoa não-existente (Opcional).
     * API para imagem: https://thispersondoesnotexist.com/
     * Segunda opção: https://github.com/David-Lor/ThisPersonDoesNotExistAPI
+- [ ] Fazer uma GUI (graphical user interface) para o algoritmo (?).
+- [ ] Testar.
+- [ ] Testar mais.
+- [ ] Reorganizar o github e as branches (Dividir as pastas certinhas e os ReadME).
+- [ ] Montar apresentação para divulgação com GIF.
+- [ ] Melhorar código (Refactoring).
