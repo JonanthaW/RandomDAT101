@@ -1,0 +1,1 @@
+nomes = ["ana", "lucia", "maria"]

@@ -1,0 +1,47 @@
+{
+    "humano": {
+        "data": {
+            "nome": {
+                "nomecompleto": "",
+                "sobrenome": "",
+                "apelido": ""
+            },
+            "datadenascimento": "",
+            "idade": "",
+            "sexo": {
+                "feminino": "",
+                "masculino": "",
+                "neutro": ""
+            },
+            "estadocivil": {
+                "solteiro": "",
+                "casado": "",
+                "viúvo": ""
+            },
+            "filhos": {
+                "comfilhos": "",
+                "semfilhos": ""
+            },
+            "feliacao": {
+                "nomedopai": "",
+                "nomedamãe": ""
+            },
+            "tiposanguineo": "",
+            "cordocabelo": "",
+            "tipocabelo": {
+                "cacheado": "",
+                "liso": "",
+                "crespo": "",
+                "ondulado": "",
+                "careca": ""
+            },
+            "raca": {
+                "preto": "",
+                "branco": "",
+                "pardo": "",
+                "amarelo": ""
+            },
+            "numerodocelular": ""
+        }
+    }
+}
