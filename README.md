@@ -33,7 +33,7 @@ Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente e
 - [X] Primeiros passos (criar repositório, iniciar o readme).
 - [X] Escrever idéia inicial.
 - [X] Determinar quais serão as linguagens iniciais disponíveis.
-- [ ] Determinar qual vai ser a tree dos arquivos.
+- [X] Determinar qual vai ser a tree dos arquivos.
 - [ ] Criar IMAGEM e LOGO para o reposítório.
 - [ ] Melhorar o README a partir das atualizações do reposítório.
 - [ ] Documentar TUDO.
