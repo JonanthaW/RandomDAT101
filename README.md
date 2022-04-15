@@ -38,7 +38,7 @@ Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente e
 - [ ] Melhorar o README a partir das atualizações do reposítório.
 - [ ] Documentar TUDO.
 - [ ] Melhorar a documentação. \o/
-- [ ] Escolher a keys da opção inicial.
+- [X] Escolher a keys da opção inicial.
 - [ ] Escolher e escrever as centenas de values para cada KEY individual. (Keys com values numéricas não necessitarão dessa opção(Podemos gerar valores números aleatórios com alguns métodos ou frameworks(math.Random() em python)).)
     * Template: nameFem = {"ana", "lucia", "Jessica", "Brianna"};
     * Template: nameMan = {"Gabriel", "Joseph", "Khan", "Victor"};
