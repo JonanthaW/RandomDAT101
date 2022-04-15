@@ -31,10 +31,19 @@ Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente e
 ## Passo à passo
 - [X] Primeiros passos (criar repositório, iniciar o readme).
 - [X] Escrever idéia inicial.
-- [ ] Determinar quais serão as linguagens iniciais disponíveis.
+- [X] Determinar quais serão as linguagens iniciais disponíveis.
 - [ ] Determinar qual vai ser a tree dos arquivos.
-- [ ] Criar IMAGEM e LOGO para o reposítório
+- [ ] Criar IMAGEM e LOGO para o reposítório.
 - [ ] Melhorar o README a partir das atualizações do reposítório.
 - [ ] Documentar TUDO.
-- [ ] Melhorar a documentação.
-- [ ] Escolher a keys da opção.
+- [ ] Melhorar a documentação. \o/
+- [ ] Escolher a keys da opção inicial.
+- [ ] Escolher e escrever as centenas de values para cada KEY individual. (Keys com values numéricas não necessitarão dessa opção(Podemos gerar valores números aleatórios com alguns métodos ou frameworks(math.Random() em python)).)
+    * Template: nameFem = {"ana", "lucia", "Jessica", "Brianna"};
+    * Template: nameMan = {"Gabriel", "Joseph", "Khan", "Victor"};
+- [ ] Estudar qual será a melhor opção para o algoritmo (velocidade e facilidade na manutenção)(Colocar tudo direto no JSON junto ou dividir tudo em subcamadas?)(Dividir em arrays ou deixar tudo em uma única array).
+- [ ] Vídeo demonstrando algoritmo em execução SEM JSON (fase alpha).
+- [ ] Vídeo demonstrando algoritmo em execução COM JSON (fase beta).
+- [ ] Adicionar opção para imagem aleatória de uma pessoa não-existente (Opcional).
+    * API para imagem: https://thispersondoesnotexist.com/
+    * Segunda opção: https://github.com/David-Lor/ThisPersonDoesNotExistAPI
