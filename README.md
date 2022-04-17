@@ -1,10 +1,7 @@
-<h3 align="center">
-  RandomData101
-</h3>
+<h1 align="center">
+  Project RandomData101
+</h1>
 
-![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.py)
-
-
-## :rocket: What is it?
+![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.png)
 
 
