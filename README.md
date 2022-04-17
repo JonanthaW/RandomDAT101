@@ -4,6 +4,9 @@
 
 ![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.png)
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JonanthaW/RandomDATA101) [![Latest release](https://github.com/JonanthaW/RandomDATA101)](https://github.com/JonanthaW/RandomDATA101) [![GitHub commits](https://badgen.net/github/commits/JonanthaW/RandomDATA101)](https://GitHub.com/JonanthaW/RandomDATA101/commit/) [![GitHub stars](https://badgen.net/github/stars/JonanthaW/RandomDATA101)](https://GitHub.com/JonanthaW/RandomDATA101/stargazers/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 ## :thinking: What is this project about?
 
