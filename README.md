@@ -12,10 +12,10 @@
 
 ## :thinking: What is this project about?
 
-The goal of this project is to create a random data generator with a wide range of values for keys and values in a given object.
-There are several languages and options available for use. This source code is available to everyone.
+The goal of this project is to create a random data generator with a wide range of options for keys/values in a given subject.
+There are several languages and options available for use. The source code is available to everyone.
 
-When executing the script or making a request to the API (Possibly in the future?), the user will be able to choose one of the different possibilities of content that will be generated and fed in a JSON with all information available.
+When executing the script or making a request to the API (Possibly in the future?), the user will be able to choose one of the different possibilities of content that will be generated and fed in a JSON with all the information available.
 
 Example: Subject "HUMAN":
 
