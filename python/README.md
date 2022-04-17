@@ -1,4 +1,4 @@
-# RandomDATA101
+# RandomDATA101 - Python
 The idea is to set up a random data generator with a wide variety of keys/values ​​in a given object. Several languages ​​will be available and ALL of them will have the same usage. The final file will be a JSON with the generated data. The initial object will be "human".
 
 Example: When executing the script or making a request to the API (Possibly in the future?), the user will be able to choose one of the different possibilities of content that will be generated and fed in a JSON. In theory, hundreds of value pairs will be available in hundreds of JSON keys.
