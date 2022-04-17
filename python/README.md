@@ -1,11 +1,11 @@
 # RandomDATA101
-A idéia é montar um gerador de dados aleatórios com uma vasta variedade de keys/values em determinado objeto. Várias linguagens estarão disponíveis e TODAS elas terão o mesmo uso. O arquivo final será um JSON com os dados gerados. O objeto inicial vai ser "human".
+The idea is to set up a random data generator with a wide variety of keys/values ​​in a given object. Several languages ​​will be available and ALL of them will have the same usage. The final file will be a JSON with the generated data. The initial object will be "human".
 
-Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente em algum futuro?), o usuário poderá escolher uma das diferentes possibilidades de conteúdo que será gerado e alimentado em um JSON. Em tese, centenas de values pairs vão estar disponíveis em centenas de keys do JSON.
+Example: When executing the script or making a request to the API (Possibly in the future?), the user will be able to choose one of the different possibilities of content that will be generated and fed in a JSON. In theory, hundreds of value pairs will be available in hundreds of JSON keys.
 ```
 {
   "human": {
-    "data":{ 
+    "date":{
       "name": [
           "fullname": "Paolo Django de Santo",
           "name": "Paolo",
@@ -13,47 +13,42 @@ Exemplo: Ao executar o script ou fazer uma requisição à API (Possívelmente e
         ],
       "age": "22",
       "bloodtype": "A+",
-      e mais 1000 opções geradas aleatórios e automaticamente...
+      and over 1000's of randomly and automatically generated options...
     }
   }
 }
 
-        "fullname": "Paolo Django de Santo"
-            /\              /\
-            |               |
-           Key             value
-
 ```
 
 
-# Linguagem inicial:
+# Initial language:
 - Python
 
-## Passo à passo
-- [X] Primeiros passos (criar repositório, iniciar o readme).
-- [X] Escrever idéia inicial.
-- [X] Determinar quais serão as linguagens iniciais disponíveis.
-- [X] Determinar qual vai ser a tree dos arquivos.
-- [ ] Criar IMAGEM e LOGO para o reposítório.
-- [ ] Melhorar o README a partir das atualizações do reposítório.
-- [ ] Documentar TUDO.
-- [ ] Melhorar a documentação. \o/
-- [X] Escolher a keys da opção inicial.
-- [ ] Escolher e escrever as centenas de values para cada KEY individual. (Keys com values numéricas não necessitarão dessa opção(Podemos gerar valores números aleatórios com alguns métodos ou frameworks(math.Random() em python)).)
+## Step by step
+- [X] First steps (create repository, start readme).
+- [X] Write initial idea.
+- [X] Determine which initial languages ​​will be available.
+- [X] Determine what will be the file tree.
+- [ ] Create IMAGE and LOGO for repository.
+- [ ] Improve README from repository updates.
+- [ ] Document EVERYTHING.
+- [ ] Improve the documentation. \The/
+- [X] Choose the keys of the initial option.
+- [ ] Choose and write the hundreds of values ​​for each individual KEY. (Keys with numeric values ​​will not need this option(We can generate random number values ​​with some methods or frameworks(math.Random() in python)).)
     * Template: nameFem = {"ana", "lucia", "Jessica", "Brianna"};
     * Template: nameMan = {"Gabriel", "Joseph", "Khan", "Victor"};
-- [ ] Estudar qual será a melhor opção para o algoritmo (velocidade e facilidade na manutenção)(Colocar tudo direto no JSON junto ou dividir tudo em subcamadas?)(Dividir em arrays ou deixar tudo em uma única array).
-- [ ] Funcional ou OOP?
-- [ ] Vídeo demonstrando algoritmo em execução SEM JSON (fase alpha).
-- [ ] Vídeo demonstrando algoritmo em execução COM JSON (fase beta).
-- [ ] Adicionar opção para imagem aleatória de uma pessoa não-existente (Opcional).
-    * API para imagem: https://thispersondoesnotexist.com/
-    * Segunda opção: https://github.com/David-Lor/ThisPersonDoesNotExistAPI
-- [ ] Fazer uma GUI (graphical user interface) para o algoritmo (?).
-- [ ] Testar.
-- [ ] Testar mais.
-- [ ] Reorganizar o github e as branches (Dividir as pastas certinhas e os ReadME).
-- [ ] Montar apresentação para divulgação com GIF.
-- [ ] Melhorar código (Refactoring).
-- [ ] Montar uma API para consumo do algoritmo.
-- [ ] Refazer o script para outras linguagens (JS, C++).
+- [ ] Study what will be the best option for the algorithm (speed and ease of maintenance) (Put everything straight into the JSON together or divide everything into sublayers?) (Split into arrays or leave everything in a single array).
+- [ ] Functional or OOP?
+- [ ] Video demonstrating algorithm running WITHOUT JSON (alpha phase).
+- [ ] Video demonstrating algorithm running WITH JSON (beta phase).
+- [ ] Add option for random image of non-existing person (Optional).
+    * API for image: https://thispersondoesnotexist.com/
+    * Second option: https://github.com/David-Lor/ThisPersonDoesNotExistAPI
+- [ ] Make a GUI (graphical user interface) for the algorithm (?).
+- [ ] Test.
+- [ ] Test more.
+- [ ] Reorganize github and branches (Split neat folders and ReadME).
+- [ ] Assemble presentation for dissemination with GIF.
+- [ ] Improve code (Refactoring).
+- [ ] Build an API to consume the algorithm.
+- [ ] Redo the script for other languages ​​(JS, C++).
