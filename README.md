@@ -1,6 +1,4 @@
-<h1 align="center">
-  Project RandomData101
-</h1>
+## Project RandomData101
 
 ![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.png)
 
@@ -17,7 +15,7 @@ There are several languages and options available for use. The source code is av
 
 When executing the script or making a request to the API (Possibly in the future?), the user will be able to choose one of the different possibilities of content that will be generated and fed in a JSON with all the information available.
 
-Example: Subject "HUMAN":
+Example of a object "HUMAN":
 
 ```
 {
@@ -71,3 +69,10 @@ $ git clone https://github.com/JonanthaW/RandomDATA101
 ### :pencil2: Contributing
 
 Generally open an issue (or comment on an issue if there's one already) before starting work on a PR.
+
+You can contribute by doing:
+* adding new keys to existing objects.
+* Improving existing code.
+* Solving bugs.
+* Moving code to new languages.
+* Doing what you think is necessary.
