@@ -59,7 +59,6 @@ Example: Subject "HUMAN":
 ### :books: Language available:
 
 * [Python](https://github.com/JonanthaW/RandomDATA101/tree/main/python)
-* soon...
 
 ### :computer: Downloading content
 
