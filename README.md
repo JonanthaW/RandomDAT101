@@ -54,11 +54,11 @@ Example of a object "HUMAN":
 
 ```
 
-### :books: Language available:
+### :nerd_face: Language available:
 
 * [Python](https://github.com/JonanthaW/RandomDATA101/tree/main/python)
 
-### :computer: Downloading content
+### :relieved: Downloading content
 
 <p>For the latest stable version:</p>
 
@@ -66,7 +66,7 @@ Example of a object "HUMAN":
 $ git clone https://github.com/JonanthaW/RandomDATA101
 ```
 
-### :pencil2: Contributing
+### :kissing_smiling_eyes: Contributing
 
 Generally open an issue (or comment on an issue if there's one already) before starting work on a PR.
 
