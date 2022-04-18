@@ -55,13 +55,14 @@ Example of a object "HUMAN":
 
 ```
 
-### :nerd_face: Language available:
+### :nerd_face: Languages available now:
+You can click on the language you want and see how it works:
 
 * [Python](https://github.com/JonanthaW/RandomDATA101/tree/main/python)
 
 ### :relieved: Downloading content
 
-<p>For the latest stable version:</p>
+For the latest stable version:
 
 ```bash
 $ git clone https://github.com/JonanthaW/RandomDATA101
