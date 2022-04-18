@@ -1,3 +1,3 @@
-## Project RandomData101 - Python
+## RandomData101 - Python version
 
 ![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.png)
