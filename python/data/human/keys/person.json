@@ -1,47 +1,132 @@
 {
-    "humano": {
+    "human": {
         "data": {
-            "nome": {
-                "nomecompleto": "",
-                "sobrenome": "",
-                "apelido": ""
+            "name": {
+                "fullname": "",
+                "name": "",
+                "surname": "",
+                "nickname": ""
             },
-            "datadenascimento": "",
-            "idade": "",
-            "sexo": {
-                "feminino": "",
-                "masculino": "",
-                "neutro": ""
+            "age": "",
+            "temper": "",
+            "diet": "",
+            "nationality": "",
+            "address": {
+            	"country": "",
+            	"state": "",
+            	"city": "",
             },
-            "estadocivil": {
-                "solteiro": "",
-                "casado": "",
-                "viúvo": ""
+            "birthdate": "",
+            "zodiacsign": "",
+            "ethnicity": "",
+            "senses": {
+            	"quantity": "",
+            	"type": "",
+            	"best": ""
             },
-            "filhos": {
-                "comfilhos": "",
-                "semfilhos": ""
+            "personality": "",
+            "bloodtype": "",
+            "religion": "",
+            "language": "",
+            "weight": "",
+            "height": "",
+            "education": {
+            	"level": ""
             },
-            "feliacao": {
-                "nomedopai": "",
-                "nomedamãe": ""
+            "job": {
+            	"work":"",
+            	"type": "",
+            	"wage": ""
             },
-            "tiposanguineo": "",
-            "cordocabelo": "",
-            "tipocabelo": {
-                "cacheado": "",
-                "liso": "",
-                "crespo": "",
-                "ondulado": "",
-                "careca": ""
+            "pet":{
+            	"quantity": "",
+            	"name": "",
+            	"type": ""
             },
-            "raca": {
-                "preto": "",
-                "branco": "",
-                "pardo": "",
-                "amarelo": ""
+            "traits": "",
+            "sex": {
+            	"gender": "",
+            	"pronouns": "",
+            	"fetishes": "",
+            	"preferences": "",
             },
-            "numerodocelular": ""
-        }
+            "body": {
+            	"type": "",
+            	"skin": {
+            		"color": ""
+            	},
+                "head": {
+                	"hair": {
+                    	"type": "",
+                    	"color": "",
+                    	"size": ""
+                	}
+                },
+            	"eye": {
+            		"quantity": "",
+            		"color": ""
+            	},
+            	"leg": {
+            		"quantity": "",
+            		"color": "",
+            		"size": ""
+            	},
+            	"feet": {
+            		"color": "",
+            		"size": "",
+            		"toe": {
+            			"quantity": "",
+            			"nail": {
+            				"color": ""
+            			}
+            		}
+            	},
+            	"arm": {
+            		"quantity": "",
+            		"color": "",
+            		"size": ""
+            	},
+            	"hand": {
+            		"color": "",
+            		"size": "",
+            		"finger": {
+            			"quantity": "",
+            			"nail": {
+            				"color": ""
+            			}
+            		}
+            	},
+            	"butt": {
+            		"color": "",
+            		"size": ""
+            	},
+            	"breasts": {
+            		"type": "",
+            		"size": ""
+            	},
+            	"genitalia": {
+            		"type": "",
+            		"color": "",
+            		"size": ""
+            	},
+            	"shape": ""            	
+            },
+            "relationship": {
+                "status": "",
+                "family": {
+                    "married": "",
+                    "children": ""
+                }
+            },
+        "disease": {
+        	"quantity": "",
+        	"type": ""
+        },
+        "vehicle": {
+        	"quantity": "",
+        	"type": "",
+        	"color": ""
+        },
     }
+}
 }
