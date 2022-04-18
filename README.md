@@ -1,6 +1,6 @@
 ## Project RandomData101
 
-![image](https://github.com/JonanthaW/RandomDATA101/blob/main/python/assets/logo.png)
+![image](https://github.com/JonanthaW/RandomDATA101/blob/main/assets/logo.png)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JonanthaW/RandomDATA101) 
 [![Latest release](https://badgen.net/github/release/JonanthaW/RandomDATA101)](https://github.com/release/JonanthaW/RandomDATA101) 
